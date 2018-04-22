@@ -13,8 +13,7 @@ HTML AND CSS
 
 ## Live Website
 
-<a href="https://github.com/flomasakhwe/Portfolio-Landing-Page.git
-"></a>
+https://github.com/flomasakhwe/Portfolio-Landing-Page.git
 
 
 Copyright (c) {2018}
