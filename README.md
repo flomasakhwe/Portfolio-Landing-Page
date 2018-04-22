@@ -12,8 +12,9 @@ None so far but if any come up, be sure to notify me.
 HTML AND CSS
 
 ## Live Website
-https://github.com/flomasakhwe/Portfolio-Landing-Page.git
 
+<a href="https://github.com/flomasakhwe/Portfolio-Landing-Page.git
+"></a>
 
 
 Copyright (c) {2018}
